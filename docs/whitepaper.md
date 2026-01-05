@@ -50,24 +50,6 @@ La courbure scalaire $R$ n’est pas un artefact mathématique. Elle encode la n
 L'universalité de cette théorie est soutenue par l'observation que des systèmes radicalement différents (fluides, aimants, trous noirs) partagent la même signature géométrique.
 
 ### 3. Preuves Empiriques : Le Zoo Géométrique
-
-L'universalité de cette théorie est soutenue par l'observation que des systèmes radicalement différents partagent la même signature géométrique. Le tableau ci-dessous classe ces systèmes du plus simple au plus complexe.
-
-| Système                       | Catégorie   | Signe de $R$      | Comportement de $|R|$     | Interprétation Microstructurale                                           |
-| :---------------------------: | :---------: | :---------------: | :-----------------------: | :-----------------------------------------------------------------------: |
-| **Gaz Idéal**                 | *Référence* | $R = 0$           | Nul                       | Absence d’interactions, géométrie plate (indépendance statistique).       |
-| **Gaz de Bose**               | *Quantique* | $R < 0$           | Divergence ($T \to 0$)    | Interactions **attractives** d’origine quantique (Condensat).             |
-| **Gaz de Fermi**              | *Quantique* | $R > 0$           | Divergence ($T \to 0$)    | Interactions **répulsives** (Principe d'exclusion de Pauli).              |
-| **Fluide Van der Waals**      | *Classique* | $R < 0$           | Diverge au point critique | Dominance des interactions attractives classiques (cohésion).             |
-| **Eau Surfondue (LDL)**       | *Anomalie*  | $R > 0$           | Augmente fortement        | Formation de structures tétraédriques, répulsion effective (ordre local). |
-| **Trou Noir (Schwarzschild)** | *Gravité*   | $R < 0$           | Faible                    | Interaction purement **attractive** (gravité dominante).                  |
-| **Trou Noir (RN / Kerr)**     | *Gravité*   | $R > 0$ / $R < 0$ | Divergence critique       | Compétition : attraction gravitationnelle vs répulsion (charge/spin).     |
-| **Systèmes Actifs**           | *Complexe*  | $R > 0$           | Maxima locaux             | Répulsion effective due à l'optimisation énergétique (auto-propulsion).   |
-
----
-
-## Zoo géométrique : tableau comparatif
-
 Le tableau suivant synthétise les propriétés géométriques pour divers systèmes, en mettant en évidence le signe de R, le comportement de |R|, et l’interprétation microstructurale.
 
 | Système                        | Signe de R         | Comportement de |R|           | Interprétation microstructurale                       |
@@ -88,10 +70,6 @@ Le tableau suivant synthétise les propriétés géométriques pour divers syst�
 | Granularité, matière noire     | R variable         | Divergence, maximum | Exclusion, clustering, transitions d’ordre            |
 
 ---
-
-
-
-
 ## 4. Lien Profond : Ordre, Entropie et Gravité
 
 ### 4.1 Ordre vs Entropie
