@@ -66,6 +66,32 @@ L'universalité de cette théorie est soutenue par l'observation que des systèm
 
 ---
 
+## Zoo géométrique : tableau comparatif
+
+Le tableau suivant synthétise les propriétés géométriques pour divers systèmes, en mettant en évidence le signe de R, le comportement de |R|, et l’interprétation microstructurale.
+
+| Système                        | Signe de R         | Comportement de |R|           | Interprétation microstructurale                       |
+|-------------------------------|--------------------|------------------|------------------------------------------------------|
+| Gaz idéal                     | R = 0              | Nul              | Absence d’interactions, géométrie plate               |
+| Gaz de Bose idéal              | R < 0              | Divergence       | Interactions attractives d’origine quantique          |
+| Gaz de Fermi idéal             | R > 0              | Divergence       | Interactions répulsives (pression de Fermi)           |
+| Fluide de van der Waals        | R < 0              | Diverge au point critique | Interactions attractives classiques           |
+| Fluide binaire vdW répulsif    | R > 0 / R < 0      | Faible, anomalies | Interactions répulsives, anomalies négatives (hard-sphere) |
+| Eau surfondue (LDL)            | R > 0              | Augmente, divergence | Structures tétraédriques, propriétés solides, répulsion effective |
+| Eau surfondue (HDL)            | R < 0              | Diverge à −∞     | Liquide désordonné, interactions attractives          |
+| Trou noir Schwarzschild-AdS    | R < 0              | Faible           | Interaction attractive uniquement                     |
+| Trou noir RN-AdS               | R < 0 / R > 0      | Divergence, transitions | Attraction à grande échelle, répulsion à petite échelle |
+| Trou noir Kerr-AdS             | R < 0 / R > 0      | Diverge au point critique | Attraction dominante, répulsion à basse entropie      |
+| Glace de spin / Hard-sphere gas| R < 0 (R_V)        | Faible à modérée | Interactions purement répulsives, exclusion           |
+| Systèmes actifs                | R > 0              | Maximum local    | Répulsion effective, optimisation énergétique         |
+| Systèmes computationnels       | R variable         | Divergence, maximum | Transition entre ordre et complexité, optimisation    |
+| Granularité, matière noire     | R variable         | Divergence, maximum | Exclusion, clustering, transitions d’ordre            |
+
+---
+
+
+
+
 ## 4. Lien Profond : Ordre, Entropie et Gravité
 
 ### 4.1 Ordre vs Entropie
