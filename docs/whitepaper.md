@@ -53,7 +53,6 @@ L'universalité de cette théorie est soutenue par l'observation que des systèm
 Le tableau suivant synthétise les propriétés géométriques pour divers systèmes, en mettant en évidence le signe de R, le comportement de |R|, et l’interprétation microstructurale.
 
 | Système                        | Signe de R         | Comportement de |R|           | Interprétation microstructurale                       |
-|-------------------------------|--------------------|------------------|------------------------------------------------------|
 | Gaz idéal                     | R = 0              | Nul              | Absence d’interactions, géométrie plate               |
 | Gaz de Bose idéal              | R < 0              | Divergence       | Interactions attractives d’origine quantique          |
 | Gaz de Fermi idéal             | R > 0              | Divergence       | Interactions répulsives (pression de Fermi)           |
